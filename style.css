@@ -27,6 +27,13 @@ body {
     padding: 2px;
     border-radius: 5px;
 }
+.sFloatRight {
+    float: right;
+    margin-bottom: auto;
+}
+.sFloatLeft {
+    float: left;
+}
 a:link {
     color:black;
     text-decoration: none;
